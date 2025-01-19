@@ -1,6 +1,6 @@
 ###
 
-<h2 align="center">Hi 👋! My name is ASHISH GUPTA and I'm a Software Developer, from Noida</h2>
+<h2 align="center">Hi 👋! I am ASHISH GUPTA and I'm a Software Developer, from Noida</h2>
 
 ###
 
