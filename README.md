@@ -118,7 +118,7 @@
   <a href="https://www.hackerrank.com/profile/ashishgupta_9801" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/hackerrank/default.svg" width="52" height="40" alt="hackerrank logo"  />
   </a>
-  <a href="ashishgupta.90278@gmail.com" target="_blank">
+  <a href="mailto:ashishgupta.90278@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
   <a href="https://www.linkedin.com/in/ashishgupta195/" target="_blank">
