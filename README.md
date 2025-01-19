@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXdnNmI4czdzb2w4d3M4djl6ZXEzbng2b3QxanN0azhlNXdta2pveCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif"  />
+  <img height="400" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXdnNmI4czdzb2w4d3M4djl6ZXEzbng2b3QxanN0azhlNXdta2pveCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif"  />
 </div>
 
 ###
@@ -9,7 +9,7 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ashish90278&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=false&custom_title=GitHub%20Stats" height="150" alt="stats graph" /> <br>
+  <img src="https://github-readme-stats.vercel.app/api?username=ashish90278&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=false&custom_title=GitHub%20Stats" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ashish90278&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
@@ -107,19 +107,15 @@
 
 ###
 
-<p align="left">Tools</p>
-
-###
-
 <img align="left" height="80" src="https://media.giphy.com/media/UqB9KRApovhliUMnSu/giphy.gif?cid=ecf05e471uh5yw0z8md5o9p32kdowqto6zqus1d2530b0z5i&ep=v1_gifs_related&rid=giphy.gif&ct=g"  />
 
 ###
 
-<div align="center">
+<div align="left">
   <a href="https://www.hackerrank.com/profile/ashishgupta_9801" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/hackerrank/default.svg" width="52" height="40" alt="hackerrank logo"  />
   </a>
-  <a href="mailto:ashishgupta.90278@gmail.com" target="_blank">
+  <a href="ashishgupta.90278@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
   <a href="https://www.linkedin.com/in/ashishgupta195/" target="_blank">
