@@ -1,12 +1,14 @@
-<div align="center">
-  <img height="400" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXdnNmI4czdzb2w4d3M4djl6ZXEzbng2b3QxanN0azhlNXdta2pveCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif"  />
-</div>
-
 ###
 
 <h2 align="center">Hi 👋! My name is ASHISH GUPTA and I'm a Software Developer, from Noida</h2>
 
 ###
+
+<div align="center">
+  <img height="400" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXdnNmI4czdzb2w4d3M4djl6ZXEzbng2b3QxanN0azhlNXdta2pveCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif"  />
+</div>
+
+
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ashish90278&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=false&custom_title=GitHub%20Stats" height="150" alt="stats graph"  />
