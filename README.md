@@ -109,10 +109,10 @@
 
 ###
 
-<img align="left" height="80" src="https://media.giphy.com/media/UqB9KRApovhliUMnSu/giphy.gif?cid=ecf05e471uh5yw0z8md5o9p32kdowqto6zqus1d2530b0z5i&ep=v1_gifs_related&rid=giphy.gif&ct=g"  />
+<img align="right" height="80" src="https://media.giphy.com/media/UqB9KRApovhliUMnSu/giphy.gif?cid=ecf05e471uh5yw0z8md5o9p32kdowqto6zqus1d2530b0z5i&ep=v1_gifs_related&rid=giphy.gif&ct=g"  />
 
 ###
-
+<p align="left">Tools</p>
 <div align="left">
   <a href="https://www.hackerrank.com/profile/ashishgupta_9801" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/hackerrank/default.svg" width="52" height="40" alt="hackerrank logo"  />
